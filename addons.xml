@@ -6,9 +6,9 @@
         <datadir zip="true">https://raw.githubusercontent.com/repository.soritv/master</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>kodisrael repository</summary>
-		<description>The most extensive repository in isrl </description>
-        <description lang="en">kodil repository - the most extensive repository in isrl </description>
+        <summary>soritv repository</summary>
+		<description>Repositorio Sori Channel TV  </description>
+        <description lang="en">Sori Channel TV repository</description>
 		<disclaimer></disclaimer>
         <platform>all</platform>
     </extension>
